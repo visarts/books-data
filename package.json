@@ -1,0 +1,19 @@
+{
+  "name": "books-data",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/visarts/books-data.git"
+  },
+  "author": "Brendan Best",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/visarts/books-data/issues"
+  },
+  "homepage": "https://github.com/visarts/books-data#readme"
+}
